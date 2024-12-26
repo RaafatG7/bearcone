@@ -1,0 +1,7 @@
+ main{
+width: 20%;
+height: 20%;
+gap: 15px;
+grid-template-columns: repeat(3,1fr);
+grid-template-rows
+ 
